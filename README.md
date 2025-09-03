@@ -1,0 +1,1 @@
+Round Robin Done Right will not collect user information or require a login. It is designed to be used for a day or multi-day tournament. The team or player match-ups and resultant wins are not saved or exported for record. 
